@@ -34,3 +34,5 @@ java.lang.IllegalArgumentException: Unmanaged descriptor
     at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:589)
     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1071)
 ```
+
+https://user-images.githubusercontent.com/13486209/213731233-7eef1089-2fad-4c50-83d3-a22bb5c91ec7.mp4
